@@ -3,16 +3,16 @@
 #
 
 # Site locale
-lang: "en"
+lang: "ko"
 
 # Name of your site (displayed in the header)
-name: Forever Jekyll
+name: 개인 블로그
 
 # Short bio or description (displayed in the header)
 description: A simple, elegant and full featured Jekyll theme
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /assets/image/avatar.png
+avatar: /assets/image/나방123
 
 #
 # Flags below are optional
