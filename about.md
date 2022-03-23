@@ -4,6 +4,6 @@ title: About
 permalink: /about
 ---
 
-Hi, Write an awesome description about your blog here.  
-Feel free to make it a bit more interesting by adding a picture or two.  
-Only limit here is your creativity and imagination. Unleash them with full force.  
+
+
+자살 하는 방법, 불법 복제, 유용한 웹, 프로그램 추천 정보를 모은 개인 블로그 입니다. 익명을 위해서 마타로아 에서 글을 올리고 여기는 백업전용 공간으로 이용됩니다.
